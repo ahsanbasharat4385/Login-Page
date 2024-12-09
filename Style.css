@@ -63,7 +63,7 @@ h2{
     color: white;
     transition: 0.5s;
 }
-input:focus ~ label, imput:valid ~ label {
+input:focus ~ label, input:valid ~ label {
     top: -5px;
 }
 .form-group i{
